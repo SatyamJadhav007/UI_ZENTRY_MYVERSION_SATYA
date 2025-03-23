@@ -88,7 +88,7 @@ const Hero = () => {
       },
     });
   });
-  const getVidSrc = (index) => `videos/hero-${index}.mp4`;
+  const getVidSrc = (index) => `/videos/hero-${index}.mp4`;
   console.log(isLoading);
   return (
     <div className="relative h-dvh w-screen overflow-x-hidden">
