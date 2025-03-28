@@ -16,7 +16,7 @@ Tailwind CSS - Utility-first styling for efficient design.
 
 ✅ Clip Path Shaped Animations - Unique geometric transitions using CSS clip-paths to create visually stunning effects.
 
-✅ 3D Hover Effects - Interactive 3D transformations that respond to user interactions for a modern feel.
+✅ 2D Hover Effects - Interactive 3D transformations that respond to user interactions for a modern feel.
 
 ✅ Video Transitions - Seamlessly integrated video elements to enhance storytelling and flow.
 
